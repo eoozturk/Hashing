@@ -1,5 +1,5 @@
 ### Dosya Organizasyonunda Hashing
-Projenin bizden istenilen amacı; içerisinde öğrenci numarası ve öğrenci adı bilgileri bulunan, program her çalıştığında rastgele olarak farklı
+Uygulamada içerisinde öğrenci numarası ve öğrenci adı bilgileri bulunan, program her çalıştığında rastgele olarak farklı
 bilgiler oluşacak şekilde beş yüz elemanlı bir dosya yapısı oluşturarak daha sonra bu dosya üzerinde hashing uygulamalarını gerçeklenmiştir ve
 bu işlemleri yaparken işlem sayılarını sayarak hangi hashing yönteminin dosya işlemlerinde daha iyi sonuç verdiğini görmek. Hashing uygulamaları
 için, bölen kalan, kare ortası ve katlama metodları, ayrık çakışma ve lineer yoklama yöntemleri ile iki farklı yolla gerçekleştirilmiştir.
