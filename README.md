@@ -1,7 +1,6 @@
 ### Dosya Organizasyonunda Hashing
 Uygulamada içerisinde öğrenci numarası ve öğrenci adı bilgileri bulunan, program her çalıştığında rastgele olarak farklı
-bilgiler oluşacak şekilde beş yüz elemanlı bir dosya yapısı oluşturarak daha sonra bu dosya üzerinde hashing uygulamalarını gerçeklenmiştir ve
-bu işlemleri yaparken işlem sayılarını sayarak hangi hashing yönteminin dosya işlemlerinde daha iyi sonuç verdiğini görmek. Hashing uygulamaları
+bilgiler oluşacak şekilde beş yüz elemanlı bir dosya yapısı oluşturulmuştur. Bu dosya üzerinde farklı hashing yöntemleri uygulanarak hangi hashing yöntemini daha avantajlı olduğu gösterilmiştir. Hashing uygulamaları
 için, bölen kalan, kare ortası ve katlama metodları, ayrık çakışma ve lineer yoklama yöntemleri ile iki farklı yolla gerçekleştirilmiştir.
 Projeyi gerçekleştirmek için ilk önce içerisinde beş yüz kayıtın tutulduğu ve program her çalıştığında tutulan bu kayıtların rastgele olarak yenilendiği
 bir bağıl dosya oluşturulmuştur. Daha sonra üç farklı hashing yöntemi iki farklı yolla toplamda altı uygulama ile bu dosyadan altı farklı bağıl dosya
